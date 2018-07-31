@@ -5,3 +5,6 @@ main:
 
   - title: "Second-Level Analysis"
     url: /second/
+
+  - title: "Code Examples"
+    url: /examples/
